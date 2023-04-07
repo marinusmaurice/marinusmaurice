@@ -1,5 +1,5 @@
 ✨About me✨
-That's me in the red suit. That's all you need to know.
+That's me in the profile picture. That's all you need to know.
 
 <!---
 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
